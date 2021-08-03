@@ -93,6 +93,38 @@ div.ellipsis {
 .percent {
   color: rgb(88, 96, 105)
 }
+
+@media (prefers-color-scheme: dark) {
+  #background {
+    fill: #0d1117;
+    stroke: #30363d;
+  }
+
+  h2 {
+    color: #c9d1d9;
+    fill: #c9d1d9;
+  }
+
+  .octicon {
+    fill: #c9d1d9;
+  }
+
+  .progress {
+    background-color: #30363d;
+  }
+
+  .progress-item {
+    outline-color: #30363d;
+  }
+
+  .lang {
+    color: #c9d1d9;
+  }
+
+  .percent {
+    color: #c9d1d9;
+  }
+}
 </style>
 <g>
 <rect x="5" y="5" id="background" />
