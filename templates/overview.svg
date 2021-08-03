@@ -76,11 +76,11 @@ tr {
   }
 
   td {
-    color: #c9d1d9;
+    color: #8b949e;
   }
 
   .octicon {
-    fill: #c9d1d9;
+    fill: #8b949e;
   }
 }
 </style>
